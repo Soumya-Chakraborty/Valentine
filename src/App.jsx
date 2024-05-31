@@ -92,7 +92,7 @@ const Footer = () => {
       href="https://soumya-chakraborty.github.io/PortfolioV2/"
       target="__blank"
     >
-      Made with{" "}
+      Made by Soumya with {" "}
       <span role="img" aria-label="heart">
         ❤️
       </span>
