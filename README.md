@@ -5,7 +5,7 @@
 Welcome to the most adorable project you've ever seen! This is a special React application designed to ask that special someone: "Will you be my Valentine?".
 
 ## 💖 What's Inside? 💖
-[Link to site](https://formyvalentine.netlify.app)
+[Link to site](https://willyoubemyvalentine2025.netlify.app/)
 
 This project is built with love using React and Vite. It features a cute and interactive UI that playfully nudges the user towards saying "Yes" to being your Valentine.
 
@@ -27,7 +27,7 @@ Now you're ready to ask the big question!
 
 ## 💕 Made with Love 💕
 
-This project was made with love by [Anish](https://github.com/xeven777). Feel free to use it to ask your own special someone to be your Valentine!
+This project was made with love by [Soumya](https://github.com/Soumya-Chakraborty). Feel free to use it to ask your own special someone to be your Valentine!
 
 ## 💌 Feedback and Contributions 💌
 
@@ -35,4 +35,4 @@ Feedback and contributions are always welcome! Feel free to open an issue or sub
 
 Happy Valentine's Day! 💘
 ---
-<img src="https://widgetbite.com/stats/Xeven777" alt="watching_count" />
+<img src="https://widgetbite.com/stats/Soumya-Chakraborty" alt="watching_count" />
